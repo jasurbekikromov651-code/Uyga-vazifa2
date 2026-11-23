@@ -1,6 +1,7 @@
-# Uyga-vazifa1
-<<<<<<< HEAD
 # Uyga-vazifa2
-=======
-![Rasm 1](Screenshot_20261120_135430_Gallery.jpg)
->>>>>>> 5625e4064034b5769e83d41e1cde10c2a29c2f6a
+![Rasm 1](20261123_213447.jpg)
+![Rasm 5](20261123_213520.jpg)
+![Rasm 2](20261123_213525.jpg)
+![Rasm 3](20261123_213536.jpg)
+![Rasm 4](20261123_213542.jpg)
+![Rasm 6](20261123_213740.jpg)
